@@ -25,6 +25,10 @@ main div button {
   transition: opacity 0.4s;
 }
 
+main div button:hover {
+  cursor: pointer;
+} 
+
 main div button:disabled {
   opacity: 0.4;
 }
