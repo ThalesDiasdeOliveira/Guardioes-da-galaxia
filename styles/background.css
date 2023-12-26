@@ -17,6 +17,7 @@ z-index: 1;
 #images {
   position: absolute;
   transition: all 0.8s;
+  width: 100vw;
 }
 
 #images img {
